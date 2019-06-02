@@ -1,0 +1,28 @@
+{
+  "name": "vacsura-listeners",
+  "version": "1.0.0",
+  "description": "event listeners for vacsura webhooks",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tehpsalmist/vacsura-listeners.git"
+  },
+  "keywords": [
+    "serverless",
+    "events",
+    "express",
+    "hasura"
+  ],
+  "author": "Ben Steward @tehpsalmist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tehpsalmist/vacsura-listeners/issues"
+  },
+  "homepage": "https://github.com/tehpsalmist/vacsura-listeners#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
